@@ -1,0 +1,14 @@
+{
+  "entrypoint": "index.html",
+  "shell": "src/demo-app/demo-app.html",
+  "fragments": [
+
+  ],
+  "sources": [
+    "bower.json"
+  ],
+  "includeDependencies": [
+    "bower_components/webcomponentsjs/webcomponents-lite.min.js",
+    "bower_components/iron-flex-layout/iron-flex-layout-classes.html"
+  ]
+}
